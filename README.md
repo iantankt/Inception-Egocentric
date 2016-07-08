@@ -33,4 +33,7 @@ The initial dataset used is a 4k plus images from University of Barcelona (Bola√
 
 I used the datasets from subject_1 and labelled (put into respective folder) them into two categories, "indoor" and "outdoor".  The total number of images for this test stage is slightly more than 1.3k images.
 
+Using the instructions found on (https://github.com/tensorflow/models/blob/master/inception/README.md#how-to-construct-a-new-dataset-for-retraining)
+
+Rearranged the folders accordingly.  Need to clean up this documentation.
 
